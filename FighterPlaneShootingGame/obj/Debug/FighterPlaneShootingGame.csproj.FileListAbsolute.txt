@@ -1,0 +1,11 @@
+D:\WORKSPACE\FighterPlaneShootingGame\bin\Debug\FighterPlaneShootingGame.exe.config
+D:\WORKSPACE\FighterPlaneShootingGame\bin\Debug\FighterPlaneShootingGame.exe
+D:\WORKSPACE\FighterPlaneShootingGame\bin\Debug\FighterPlaneShootingGame.pdb
+D:\WORKSPACE\FighterPlaneShootingGame\obj\Debug\FighterPlaneShootingGame.csproj.AssemblyReference.cache
+D:\WORKSPACE\FighterPlaneShootingGame\obj\Debug\FighterPlaneShootingGame.csproj.SuggestedBindingRedirects.cache
+D:\WORKSPACE\FighterPlaneShootingGame\obj\Debug\FighterPlaneShootingGame.Form1.resources
+D:\WORKSPACE\FighterPlaneShootingGame\obj\Debug\FighterPlaneShootingGame.Properties.Resources.resources
+D:\WORKSPACE\FighterPlaneShootingGame\obj\Debug\FighterPlaneShootingGame.csproj.GenerateResource.cache
+D:\WORKSPACE\FighterPlaneShootingGame\obj\Debug\FighterPlaneShootingGame.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\FighterPlaneShootingGame\obj\Debug\FighterPlaneShootingGame.exe
+D:\WORKSPACE\FighterPlaneShootingGame\obj\Debug\FighterPlaneShootingGame.pdb
